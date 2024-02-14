@@ -24,5 +24,5 @@ From Nightmares to Dreams features a unique art style that sets it apart from ot
 While the game does not feature music, it incorporates sound effects to enhance the gaming experience. Sound effects are used to indicate successful jumps, collisions, and other in-game events, adding depth to the gameplay.
 
 ## Links
-Source Code: https://github.com/lukasPisarcik/GameJam2023
-Game: https://lukaspisarcik.itch.io/from-night
+- Source Code: https://github.com/lukasPisarcik/GameJam2023
+- Game: https://lukaspisarcik.itch.io/from-night
